@@ -1,5 +1,9 @@
 
+#Real time Rover obstacle avoidance
 
+![alt text](https://ibb.co/NsQLd2y)
+
+#How to use
 Nella versione Allegro_Con_Rover si richiede che il rover stia collegato e va avviato con:
 
   - ./avoidance NumeroDellaSerialeAperta (es. ./avoidance 3)
