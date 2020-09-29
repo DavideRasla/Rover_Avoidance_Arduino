@@ -22,6 +22,7 @@ cambiamenti aleatori della seriale e quindi la ricezione dei dati.
 Per farlo nel modulo BtComunication ho aggiunto:
 
 if(count == 100){
+
  BufFromSerialBT[0] = 112; 
  BufFromSerialBT[1] =  rand() % 100 + 1;
  BufFromSerialBT[2] =  rand() % 100 + 1;
