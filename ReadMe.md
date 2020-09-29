@@ -1,7 +1,7 @@
 
 #Real time Rover obstacle avoidance
 
-![alt text](image.jpg)
+![alt text](Image.jpg)
 
 #How to use
 Nella versione Allegro_Con_Rover si richiede che il rover stia collegato e va avviato con:
